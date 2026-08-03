@@ -3,6 +3,9 @@ background: white;
 color: blue;
 text-align: center;
 }
+head{
+background: rgb(5, 77, 43);
+}
 main{
 color: grey;
 text-align: left;
