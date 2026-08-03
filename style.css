@@ -1,11 +1,9 @@
 header{
-background: white;
+background: rgb(4, 56, 36);
 color: blue;
 text-align: center;
 }
-head{
-background: rgb(5, 77, 43);
-}
+
 main{
 color: grey;
 text-align: left;
